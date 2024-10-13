@@ -1,5 +1,5 @@
 <?php
-$email1 = 'langssstore354771@@gmail.com';
+$email1 = 'rkgabut@@gmail.com';
 $email2 = 'langssstore354771@gmail.com';
 $email3 = 'langssstore354771@gmail.com@';
 $email4 = 'langssstore354771@gmail.com@;
